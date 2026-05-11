@@ -1,16 +1,16 @@
-## 🏢 Sobre a Noctra Systems
+## 🏢 About Noctra Systems
 
-A **Noctra Systems** é uma iniciativa focada no desenvolvimento de soluções tecnológicas sob medida, com ênfase em automação de processos, desenvolvimento de sistemas e suporte técnico especializado.
+**Noctra Systems** is an initiative focused on developing custom technology solutions, with an emphasis on process automation, systems development, and specialized technical support.
 
-Com atuação voltada para eficiência e performance, a Noctra Systems entrega aplicações web modernas, softwares desktop robustos e integrações inteligentes que otimizam rotinas e resolvem problemas reais de empresas e usuários.
+With a focus on efficiency and performance, Noctra Systems delivers modern web applications, robust desktop software, and intelligent integrations that optimize routines and solve real problems for businesses and users.
 
-A empresa nasce da experiência prática em desenvolvimento de software e infraestrutura de TI, unindo conhecimento técnico com uma abordagem direta e orientada a resultados.
+The company is born from practical experience in software development and IT infrastructure, combining technical knowledge with a straightforward, results-oriented approach.
 
-### 🔧 Principais áreas de atuação:
-- Desenvolvimento de sistemas web (fullstack)
-- Criação de aplicações desktop com Python
-- Automação de processos em ambientes Windows
-- Integração de APIs e serviços
-- Suporte técnico e soluções em infraestrutura de TI
+### 🔧 Main areas of expertise:
+- Web systems development (fullstack)
+- Desktop application development with Python
+- Process automation in Windows environments
+- API and service integration
+- Technical support and IT infrastructure solutions
 
-A Noctra Systems tem como objetivo transformar necessidades em soluções eficientes, utilizando tecnologia de forma estratégica para gerar valor real.
+Noctra Systems aims to transform needs into efficient solutions, using technology strategically to generate real value.
