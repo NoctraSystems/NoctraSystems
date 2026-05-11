@@ -1,8 +1,3 @@
-/**
- * Noctra Systems - Main JavaScript
- * Performance otimizada, foco em conversão e marketing
- */
-
 (function () {
     'use strict';
 
